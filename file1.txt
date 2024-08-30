@@ -2,3 +2,6 @@ This is first line
 this is second lineeee
 this is third lineeee
 this is pushed to repo
+this revert line1
+this is rever line2
+this is revert3 line3
