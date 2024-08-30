@@ -1,5 +1,0 @@
-This is first line
-this is fifth line
-this is third lineeee
-this is pushed to repo
-this is merge conflict line
