@@ -2,5 +2,6 @@ resource "azurerm_resource_group" "rg" {
     name = "rg01"
     location = "eastus"
     location = "centralus"
+    location = "eastussss"
       
 }
