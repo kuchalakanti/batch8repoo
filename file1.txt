@@ -2,4 +2,8 @@ This is first line
 this is fifth line
 this is third lineeee
 this is pushed to repo
+<<<<<<< HEAD
 this is merge conflict line
+=======
+this is conflict line
+>>>>>>> 1e4fc20 (aconfl)
